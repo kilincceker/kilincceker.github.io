@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "onur Kılınççeker"
+  name             : "Onur Kılınççeker"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I received the B.S. degree in Applied Mathematics and the M.Sc. degree in Information Technologies from Ege University in Turkey. I am currently pursuing the PhD degree in Electrical Engineering and Information Technologies from Paderborn University, Germany."
+  location         : "Muğla/Turkey and Paderborn/Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com.tr/citations?user=Iw3SpVUAAAAJ&hl=tr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5996-4398"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
