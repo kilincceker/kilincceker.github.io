@@ -1,16 +1,13 @@
-
 ---
-title: "deneme"
+title: "Problem-solving skills of secondary school students"
 collection: publications
 permalink: /publication/deneme
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-02
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2006-10-02
+venue: 'XIX. National Mathematics Symposium'
+paperurl: ''
+citation: Kürşat Yenilmez, Onur Kilincceker, Ferhan Arslan, Gaye Istek (2006). "Problem-solving skills of secondary school students" <i>XIX. National Mathematics Symposium </i>. pp. 338-345.
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Kürşat Yenilmez, Onur Kilincceker, Ferhan Arslan, Gaye Istek (2006). "Problem-solving skills of secondary school students" <i>XIX. National Mathematics Symposium </i>. pp. 338-345.
