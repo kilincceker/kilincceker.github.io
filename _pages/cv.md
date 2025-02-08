@@ -59,7 +59,7 @@ Work experience
   * Supervisor: Prof. Pinar Dundar
  
 * 2006 - 2007: Mathematics Teacher
-  * Ege University, Mathematics Department, Turkiye
+  * BEM, Education Department, Turkiye
   * Duties include: Teaching
   * Supervisor: Mehmet Saygili
  
