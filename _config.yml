@@ -13,7 +13,7 @@ name                     : &name "Dr. Onur Kılınççeker"
 description              : &description "I received my Bachelor of Science (B.Sc.) in Applied Mathematics and Master of Science (M.Sc.) in Information Technologies from Ege University, Turkey. I then earned my Doctor of Philosophy (Ph.D.) in Electrical Engineering and Information Technologies from Paderborn University, Germany. My doctoral research focused on software testing, with a specialization in model-based testing and mutation testing."
 url                      : https://kilincceker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "https://kilincceker.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
