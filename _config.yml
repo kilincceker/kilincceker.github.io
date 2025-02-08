@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Onur Kılınççeker"
+  name             : "Dr. Onur Kılınççeker"
   avatar           : "profile.png"
-  bio              : "I received the B.S. degree in Applied Mathematics and the M.Sc. degree in Information Technologies from Ege University in Turkey. I am currently pursuing the PhD degree in Electrical Engineering and Information Technologies from Paderborn University, Germany."
+  bio              : "I received my Bachelor of Science (B.Sc.) in Applied Mathematics and Master of Science (M.Sc.) in Information Technologies from Ege University, Turkey. I then earned my Doctor of Philosophy (Ph.D.) in Electrical Engineering and Information Technologies from Paderborn University, Germany. My doctoral research focused on software testing, with a specialization in model-based testing and mutation testing."
   location         : "Muğla/Turkey and Paderborn/Germany"
   employer         :
   pubmed           : ""
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KilinccekerOnur"
+  twitter          :
   vine             :
   weibo            :
   xing             :
