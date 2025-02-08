@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Onur Kılınççeker"
   avatar           : "profile.png"
-  bio              : "I received my Bachelor of Science (B.Sc.) in Applied Mathematics and Master of Science (M.Sc.) in Information Technologies from Ege University, Turkey. I then earned my Doctor of Philosophy (Ph.D.) in Electrical Engineering and Information Technologies from Paderborn University, Germany. My doctoral research focused on software testing, with a specialization in model-based testing and mutation testing."
-  location         : "Antwerp/Belgium"
+  bio              : "Senior Researcher at the University of Antwerp, expert in software testing, specialising in model-based and mutation testing."
+  location         : "Antwerp, Belgium"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com.tr/citations?user=Iw3SpVUAAAAJ&hl=tr"
